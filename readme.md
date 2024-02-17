@@ -81,7 +81,7 @@ server内负责挂载api,协同,统一输出格式等,一般情况不允许更�
 
 # manifest.json
 
-```json
+```JavaScrip
 {
   // API名字
     "api_name": "test",
